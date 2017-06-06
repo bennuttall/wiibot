@@ -16,8 +16,4 @@ A Wii remote controlled robot using CamJam kit 3
 ## Software
 
 - [GPIO Zero](http://gpiozero.readthedocs.io)
-- [cwiid](https://github.com/abstrakraft/cwiid)
-
-## Python 2
-
-It's Python 2 due to [cwiid](https://github.com/abstrakraft/cwiid/issues/26)
+- [cwiid](https://pypi.python.org/pypi/cwiid)
